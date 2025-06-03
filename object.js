@@ -4,7 +4,8 @@ const isPassed = true;
 // let isDeveloper;
 
 // We define object using {}
-// Non primitive --> basic ar choto kora jabe na
+// Non primitive --> onek gula property,key and values thakte pare.
+// object er moddhe object thakte parbe
 
 const bottle = {
   color: "blue",
