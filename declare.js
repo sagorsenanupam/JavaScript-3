@@ -10,3 +10,4 @@ const rubber = Object.create({});
 console.log(rubber);
 
 // Using new
+// Creating object.
